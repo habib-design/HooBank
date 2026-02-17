@@ -25,8 +25,8 @@ This project showcases a professional-grade frontend with reusable components an
 ![main section](image-1.png)
 ![footer](image-2.png)
 
-Install Dependencies
+Install Dependencies:
 npm install
 
-Start Development Server
+Start Development Server:
 npm run dev
